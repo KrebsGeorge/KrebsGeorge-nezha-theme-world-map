@@ -1,4 +1,4 @@
-const domain = "example.com";
+const domain = "ne.okapy.cf";
 
 export default {
   async fetch(request, env) {
